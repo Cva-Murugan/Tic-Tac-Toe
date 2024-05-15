@@ -11,9 +11,9 @@ This is a simple Tic Tac Toe game developed for iOS using Swift. It allows two p
 
 ## Screenshots
 
-![Game Screenshot 1](Tic-Tac-Toe/ScreenShots/IMG1.png)
-![Game Screenshot 2](Tic-Tac-Toe/ScreenShots/IMG2.png)
-![Game Screenshot 3](Tic-Tac-Toe/ScreenShots/IMG3.png)
+![Game Screenshot 1](ScreenShots/IMG1.png)
+![Game Screenshot 2](ScreenShots/IMG2.png)
+![Game Screenshot 3](ScreenShots/IMG3.png)
 
 
 ## Installation
